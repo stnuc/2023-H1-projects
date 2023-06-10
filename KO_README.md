@@ -8,8 +8,8 @@ Languages
 # 2023 H1 Projects
 
 - [Code Tracker](#code-tracker) - devhoodit
-- [Stock Price Prediction]() - wajang
-- [Parrot & AlienRobot Dominate the World]() - moordo91
+- [Stock Price Prediction](#stock-price-prediction) - wajang
+- [Parrot & AlienRobot Dominate the World](#parrot--alienrobot-dominate-the-world) - moordo91
 
 ## Code Tracker
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=ffffff"/>
