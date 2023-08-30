@@ -3,10 +3,12 @@ Languages
 <br>
 
 [한국어](./README_ko.md) | [English](./README.md)
+<br>
+Translate version can be update slowly, check English version for recent update
 </div>
 
 # Applicator projects
-Every half, held project seminar (offline)  
+상반기, 하반기에 프로젝트 발표회가 열립니다 (오프라인)  
 
 # How to join
 ## Create work space
@@ -23,7 +25,6 @@ Every half, held project seminar (offline)
 2. Fork to applicator repository
 
 ## Request for project explain
-Fork this repo and edit your project explain and create pull request
-Edit markdown file according to your project quarter  
+이 repo를 fork해서 본인의 프로젝트에 해당이 되는 설명을 추가, 편집하여 pull request를 만듭니다  
 <br>
-For example, working in 2023, first half then find 2023H1.md and create pull request under the template  
+예시, 2023년 상반기 프로젝트 참여시, 2023H1.md를 편집 후 pull request  
