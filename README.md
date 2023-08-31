@@ -8,6 +8,10 @@ Languages
 # Applicator projects
 Every half, held project seminar (offline)  
 
+## Contents
+- [How to join](#how-to-join)  
+- [Look around projects](#look-around-projects)
+
 # How to join
 ## Create work space
 ### Create new repo in applicator
@@ -27,3 +31,8 @@ Fork this repo and edit your project explain and create pull request
 Edit markdown file according to your project quarter  
 <br>
 For example, working in 2023, first half then find 2023H1.md and create pull request under the template  
+
+<br>
+
+# Look around projects
+See [project quater list](./projects/projects.md)
