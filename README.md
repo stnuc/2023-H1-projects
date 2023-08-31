@@ -7,10 +7,12 @@ Languages
 
 # Applicator projects
 Every half, held project seminar (offline)  
+Improving skill through project and sharing it with others  
 
 ## Contents
 - [How to join](#how-to-join)  
 - [Look around projects](#look-around-projects)
+- [FAQ](#faq)
 
 # How to join
 ## Create work space
@@ -26,6 +28,9 @@ Every half, held project seminar (offline)
 1. Create own repo
 2. Fork to applicator repository
 
+### Request to project leader
+See [history]("") and contact to project leader  
+
 ## Request for project explain
 Fork this repo and edit your project explain and create pull request
 Edit markdown file according to your project quarter  
@@ -36,3 +41,13 @@ For example, working in 2023, first half then find 2023H1.md and create pull req
 
 # Look around projects
 See [project quater list](./projects/projects.md)
+
+
+<br>
+
+# FAQ
+<details>
+<summary>Can I join only seminar(offline presentation)?</summary>
+Yes, you can join seminar without any presentation 
+Apply participate form to join seminar  
+</details>
